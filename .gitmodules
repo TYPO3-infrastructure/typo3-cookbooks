@@ -1,0 +1,186 @@
+[submodule "composer"]
+	path = composer
+	url = git@github.com:TYPO3-cookbooks/composer.git
+[submodule "etckeeper"]
+	path = etckeeper
+	url = git@github.com:TYPO3-cookbooks/etckeeper.git
+[submodule "etherpad-lite"]
+	path = etherpad-lite
+	url = git@github.com:TYPO3-cookbooks/etherpad-lite.git
+[submodule "gerrit"]
+	path = gerrit
+	url = git@github.com:TYPO3-cookbooks/gerrit.git
+[submodule "git-daemon"]
+	path = git-daemon
+	url = git@github.com:TYPO3-cookbooks/git-daemon.git
+[submodule "gitweb"]
+	path = gitweb
+	url = git@github.com:TYPO3-cookbooks/gitweb.git
+[submodule "hg"]
+	path = hg
+	url = git@github.com:TYPO3-cookbooks/hg.git
+[submodule "hwraid"]
+	path = hwraid
+	url = git@github.com:TYPO3-cookbooks/hwraid.git
+[submodule "iptables_whitelist"]
+	path = iptables_whitelist
+	url = git@github.com:TYPO3-cookbooks/iptables_whitelist.git
+[submodule "locales"]
+	path = locales
+	url = git@github.com:TYPO3-cookbooks/locales.git
+[submodule "logstash"]
+	path = logstash
+	url = git@github.com:TYPO3-cookbooks/logstash.git
+[submodule "mailman"]
+	path = mailman
+	url = git@github.com:TYPO3-cookbooks/mailman.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:TYPO3-cookbooks/nginx.git
+[submodule "npm"]
+	path = npm
+	url = git@github.com:TYPO3-cookbooks/npm.git
+[submodule "ohmyzsh"]
+	path = ohmyzsh
+	url = git@github.com:TYPO3-cookbooks/ohmyzsh.git
+[submodule "openvz"]
+	path = openvz
+	url = git@github.com:TYPO3-cookbooks/openvz.git
+[submodule "otrs"]
+	path = otrs
+	url = git@github.com:TYPO3-cookbooks/otrs.git
+[submodule "php"]
+	path = php
+	url = git@github.com:TYPO3-cookbooks/php.git
+[submodule "pirum"]
+	path = pirum
+	url = git@github.com:TYPO3-cookbooks/pirum.git
+[submodule "redmine"]
+	path = redmine
+	url = git@github.com:TYPO3-cookbooks/redmine.git
+[submodule "rkhunter"]
+	path = rkhunter
+	url = git@github.com:TYPO3-cookbooks/rkhunter.git
+[submodule "service-ldap"]
+	path = service-ldap
+	url = git@github.com:TYPO3-cookbooks/service-ldap.git
+[submodule "service-svn2git"]
+	path = service-svn2git
+	url = git@github.com:TYPO3-cookbooks/service-svn2git.git
+[submodule "site-builddocstypo3org"]
+	path = site-builddocstypo3org
+	url = git@github.com:TYPO3-cookbooks/site-builddocstypo3org.git
+[submodule "site-cheftypo3org"]
+	path = site-cheftypo3org
+	url = git@github.com:TYPO3-cookbooks/site-cheftypo3org.git
+[submodule "site-cineostypo3org"]
+	path = site-cineostypo3org
+	url = git@github.com:TYPO3-cookbooks/site-cineostypo3org.git
+[submodule "site-citypo3org"]
+	path = site-citypo3org
+	url = git@github.com:TYPO3-cookbooks/site-citypo3org.git
+[submodule "site-composertypo3org"]
+	path = site-composertypo3org
+	url = git@github.com:TYPO3-cookbooks/site-composertypo3org.git
+[submodule "site-demotypo3org"]
+	path = site-demotypo3org
+	url = git@github.com:TYPO3-cookbooks/site-demotypo3org.git
+[submodule "site-docstypo3org"]
+	path = site-docstypo3org
+	url = git@github.com:TYPO3-cookbooks/site-docstypo3org.git
+[submodule "site-forgetypo3org"]
+	path = site-forgetypo3org
+	url = git@github.com:TYPO3-cookbooks/site-forgetypo3org.git
+[submodule "site-forumtypo3org"]
+	path = site-forumtypo3org
+	url = git@github.com:TYPO3-cookbooks/site-forumtypo3org.git
+[submodule "site-gittypo3org"]
+	path = site-gittypo3org
+	url = git@github.com:TYPO3-cookbooks/site-gittypo3org.git
+[submodule "site-mqtypo3org"]
+	path = site-mqtypo3org
+	url = git@github.com:TYPO3-cookbooks/site-mqtypo3org.git
+[submodule "site-notestypo3org"]
+	path = site-notestypo3org
+	url = git@github.com:TYPO3-cookbooks/site-notestypo3org.git
+[submodule "site-otrs-sectypo3org"]
+	path = site-otrs-sectypo3org
+	url = git@github.com:TYPO3-cookbooks/site-otrs-sectypo3org.git
+[submodule "site-packagebuildertypo3org"]
+	path = site-packagebuildertypo3org
+	url = git@github.com:TYPO3-cookbooks/site-packagebuildertypo3org.git
+[submodule "site-proxytypo3org"]
+	path = site-proxytypo3org
+	url = git@github.com:TYPO3-cookbooks/site-proxytypo3org.git
+[submodule "site-reviewtypo3org"]
+	path = site-reviewtypo3org
+	url = git@github.com:TYPO3-cookbooks/site-reviewtypo3org.git
+[submodule "site-solrtypo3org"]
+	path = site-solrtypo3org
+	url = git@github.com:TYPO3-cookbooks/site-solrtypo3org.git
+[submodule "site-statustypo3org"]
+	path = site-statustypo3org
+	url = git@github.com:TYPO3-cookbooks/site-statustypo3org.git
+[submodule "site-svntypo3org"]
+	path = site-svntypo3org
+	url = git@github.com:TYPO3-cookbooks/site-svntypo3org.git
+[submodule "site-themestypo3org"]
+	path = site-themestypo3org
+	url = git@github.com:TYPO3-cookbooks/site-themestypo3org.git
+[submodule "site-toolstypo3org"]
+	path = site-toolstypo3org
+	url = git@github.com:TYPO3-cookbooks/site-toolstypo3org.git
+[submodule "site-typo3org"]
+	path = site-typo3org
+	url = git@github.com:TYPO3-cookbooks/site-typo3org.git
+[submodule "skeleton-cookbook"]
+	path = skeleton-cookbook
+	url = git@github.com:TYPO3-cookbooks/skeleton-cookbook.git
+[submodule "solr"]
+	path = solr
+	url = git@github.com:TYPO3-cookbooks/solr.git
+[submodule "sonar"]
+	path = sonar
+	url = git@github.com:TYPO3-cookbooks/sonar.git
+[submodule "ssl_certificates"]
+	path = ssl_certificates
+	url = git@github.com:TYPO3-cookbooks/ssl_certificates.git
+[submodule "t3-base"]
+	path = t3-base
+	url = git@github.com:TYPO3-cookbooks/t3-base.git
+[submodule "t3-chef-client"]
+	path = t3-chef-client
+	url = git@github.com:TYPO3-cookbooks/t3-chef-client.git
+[submodule "t3-chef-vault"]
+	path = t3-chef-vault
+	url = git@github.com:TYPO3-cookbooks/t3-chef-vault.git
+[submodule "t3-gitweb"]
+	path = t3-gitweb
+	url = git@github.com:TYPO3-cookbooks/t3-gitweb.git
+[submodule "t3-kvm"]
+	path = t3-kvm
+	url = git@github.com:TYPO3-cookbooks/t3-kvm.git
+[submodule "t3-mysql"]
+	path = t3-mysql
+	url = git@github.com:TYPO3-cookbooks/t3-mysql.git
+[submodule "t3-pdns"]
+	path = t3-pdns
+	url = git@github.com:TYPO3-cookbooks/t3-pdns.git
+[submodule "t3-zabbix"]
+	path = t3-zabbix
+	url = git@github.com:TYPO3-cookbooks/t3-zabbix.git
+[submodule "thin"]
+	path = thin
+	url = git@github.com:TYPO3-cookbooks/thin.git
+[submodule "VagrantDocsTypo3Org"]
+	path = VagrantDocsTypo3Org
+	url = git@github.com:TYPO3-cookbooks/VagrantDocsTypo3Org.git
+[submodule "VagrantTypo3Org"]
+	path = VagrantTypo3Org
+	url = git@github.com:TYPO3-cookbooks/VagrantTypo3Org.git
+[submodule "zabbix"]
+	path = zabbix
+	url = git@github.com:TYPO3-cookbooks/zabbix.git
+[submodule "zabbix-custom-checks"]
+	path = zabbix-custom-checks
+	url = git@github.com:TYPO3-cookbooks/zabbix-custom-checks.git
