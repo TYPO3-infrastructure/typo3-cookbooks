@@ -163,6 +163,9 @@
 [submodule "t3-mysql"]
 	path = t3-mysql
 	url = git@github.com:TYPO3-cookbooks/t3-mysql.git
+[submodule "t3-nginx"]
+	path = t3-nginx
+	url = git@github.com:TYPO3-cookbooks/t3-nginx.git
 [submodule "t3-pdns"]
 	path = t3-pdns
 	url = git@github.com:TYPO3-cookbooks/t3-pdns.git
