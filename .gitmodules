@@ -43,9 +43,6 @@
 [submodule "ohmyzsh"]
 	path = ohmyzsh
 	url = git@github.com:TYPO3-cookbooks/ohmyzsh.git
-[submodule "openvz"]
-	path = openvz
-	url = git@github.com:TYPO3-cookbooks/openvz.git
 [submodule "otrs"]
 	path = otrs
 	url = git@github.com:TYPO3-cookbooks/otrs.git
@@ -97,6 +94,9 @@
 [submodule "site-gittypo3org"]
 	path = site-gittypo3org
 	url = git@github.com:TYPO3-cookbooks/site-gittypo3org.git
+[submodule "site-monitoringtypo3org"]
+	path = site-monitoringtypo3org
+	url = git@github.com:TYPO3-cookbooks/site-monitoringtypo3org.git
 [submodule "site-mqtypo3org"]
 	path = site-mqtypo3org
 	url = git@github.com:TYPO3-cookbooks/site-mqtypo3org.git
@@ -115,6 +115,9 @@
 [submodule "site-reviewtypo3org"]
 	path = site-reviewtypo3org
 	url = git@github.com:TYPO3-cookbooks/site-reviewtypo3org.git
+[submodule "site-skeletontypo3org"]
+	path = site-skeletontypo3org
+	url = git@github.com:TYPO3-cookbooks/site-skeletontypo3org.git
 [submodule "site-solrtypo3org"]
 	path = site-solrtypo3org
 	url = git@github.com:TYPO3-cookbooks/site-solrtypo3org.git
@@ -166,6 +169,9 @@
 [submodule "t3-nginx"]
 	path = t3-nginx
 	url = git@github.com:TYPO3-cookbooks/t3-nginx.git
+[submodule "t3-openvz"]
+	path = t3-openvz
+	url = git@github.com:TYPO3-cookbooks/t3-openvz.git
 [submodule "t3-pdns"]
 	path = t3-pdns
 	url = git@github.com:TYPO3-cookbooks/t3-pdns.git
