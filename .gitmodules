@@ -1,3 +1,6 @@
+[submodule "backuppc"]
+	path = backuppc
+	url = git@github.com:TYPO3-cookbooks/backuppc.git
 [submodule "composer"]
 	path = composer
 	url = git@github.com:TYPO3-cookbooks/composer.git
@@ -64,6 +67,9 @@
 [submodule "service-svn2git"]
 	path = service-svn2git
 	url = git@github.com:TYPO3-cookbooks/service-svn2git.git
+[submodule "site-backuppctypo3org"]
+	path = site-backuppctypo3org
+	url = git@github.com:TYPO3-cookbooks/site-backuppctypo3org.git
 [submodule "site-builddocstypo3org"]
 	path = site-builddocstypo3org
 	url = git@github.com:TYPO3-cookbooks/site-builddocstypo3org.git
@@ -97,6 +103,9 @@
 [submodule "site-monitoringtypo3org"]
 	path = site-monitoringtypo3org
 	url = git@github.com:TYPO3-cookbooks/site-monitoringtypo3org.git
+[submodule "site-mstypo3org"]
+	path = site-mstypo3org
+	url = git@github.com:TYPO3-cookbooks/site-mstypo3org.git
 [submodule "site-mqtypo3org"]
 	path = site-mqtypo3org
 	url = git@github.com:TYPO3-cookbooks/site-mqtypo3org.git
@@ -106,21 +115,36 @@
 [submodule "site-otrs-sectypo3org"]
 	path = site-otrs-sectypo3org
 	url = git@github.com:TYPO3-cookbooks/site-otrs-sectypo3org.git
+[submodule "site-otrstypo3org"]
+	path = site-otrstypo3org
+	url = git@github.com:TYPO3-cookbooks/site-otrstypo3org.git
 [submodule "site-packagebuildertypo3org"]
 	path = site-packagebuildertypo3org
 	url = git@github.com:TYPO3-cookbooks/site-packagebuildertypo3org.git
+[submodule "site-perfmontypo3org"]
+	path = site-perfmontypo3org
+	url = git@github.com:TYPO3-cookbooks/site-perfmontypo3org.git
+[submodule "site-piwiktypo3.org"]
+	path = site-piwiktypo3.org
+	url = git@github.com:TYPO3-cookbooks/site-piwiktypo3.org.git
 [submodule "site-proxytypo3org"]
 	path = site-proxytypo3org
 	url = git@github.com:TYPO3-cookbooks/site-proxytypo3org.git
 [submodule "site-reviewtypo3org"]
 	path = site-reviewtypo3org
 	url = git@github.com:TYPO3-cookbooks/site-reviewtypo3org.git
+[submodule "site-securityteamtypo3org"]
+	path = site-securityteamtypo3org
+	url = git@github.com:TYPO3-cookbooks/site-securityteamtypo3org.git
 [submodule "site-skeletontypo3org"]
 	path = site-skeletontypo3org
 	url = git@github.com:TYPO3-cookbooks/site-skeletontypo3org.git
 [submodule "site-solrtypo3org"]
 	path = site-solrtypo3org
 	url = git@github.com:TYPO3-cookbooks/site-solrtypo3org.git
+[submodule "site-solrtypo3org-potenial-rewrite"]
+	path = site-solrtypo3org-potenial-rewrite
+	url = git@github.com:TYPO3-cookbooks/site-solrtypo3org-potenial-rewrite.git
 [submodule "site-statustypo3org"]
 	path = site-statustypo3org
 	url = git@github.com:TYPO3-cookbooks/site-statustypo3org.git
@@ -175,6 +199,12 @@
 [submodule "t3-pdns"]
 	path = t3-pdns
 	url = git@github.com:TYPO3-cookbooks/t3-pdns.git
+[submodule "t3-pin-database-cookbook"]
+	path = t3-pin-database-cookbook
+	url = git@github.com:TYPO3-cookbooks/t3-pin-database-cookbook.git
+[submodule "t3-rsyslog"]
+	path = t3-rsyslog
+	url = git@github.com:TYPO3-cookbooks/t3-rsyslog.git
 [submodule "t3-zabbix"]
 	path = t3-zabbix
 	url = git@github.com:TYPO3-cookbooks/t3-zabbix.git
