@@ -223,3 +223,6 @@
 [submodule "zabbix-custom-checks"]
 	path = zabbix-custom-checks
 	url = git@github.com:TYPO3-cookbooks/zabbix-custom-checks.git
+[submodule "t3-tinc"]
+	path = t3-tinc
+	url = git@github.com:TYPO3-cookbooks/t3-tinc.git
