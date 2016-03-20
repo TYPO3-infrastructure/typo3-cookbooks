@@ -1,12 +1,6 @@
 [submodule "backuppc"]
 	path = backuppc
 	url = git@github.com:TYPO3-cookbooks/backuppc.git
-[submodule "composer"]
-	path = composer
-	url = git@github.com:TYPO3-cookbooks/composer.git
-[submodule "etckeeper"]
-	path = etckeeper
-	url = git@github.com:TYPO3-cookbooks/etckeeper.git
 [submodule "etherpad-lite"]
 	path = etherpad-lite
 	url = git@github.com:TYPO3-cookbooks/etherpad-lite.git
@@ -52,9 +46,6 @@
 [submodule "php"]
 	path = php
 	url = git@github.com:TYPO3-cookbooks/php.git
-[submodule "pirum"]
-	path = pirum
-	url = git@github.com:TYPO3-cookbooks/pirum.git
 [submodule "redmine"]
 	path = redmine
 	url = git@github.com:TYPO3-cookbooks/redmine.git
@@ -151,9 +142,6 @@
 [submodule "site-svntypo3org"]
 	path = site-svntypo3org
 	url = git@github.com:TYPO3-cookbooks/site-svntypo3org.git
-[submodule "site-themestypo3org"]
-	path = site-themestypo3org
-	url = git@github.com:TYPO3-cookbooks/site-themestypo3org.git
 [submodule "site-toolstypo3org"]
 	path = site-toolstypo3org
 	url = git@github.com:TYPO3-cookbooks/site-toolstypo3org.git
