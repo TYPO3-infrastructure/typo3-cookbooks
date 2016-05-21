@@ -214,3 +214,6 @@
 [submodule "t3-tinc"]
 	path = t3-tinc
 	url = git@github.com:TYPO3-cookbooks/t3-tinc.git
+[submodule "site-chefcitypo3org"]
+	path = site-chefcitypo3org
+	url = git@github.com:TYPO3-cookbooks/site-chefcitypo3org.git
