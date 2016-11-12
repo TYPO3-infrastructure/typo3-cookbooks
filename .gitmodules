@@ -220,3 +220,12 @@
 [submodule "site-ldaptypo3org"]
 	path = site-ldaptypo3org
 	url = git@github.com:TYPO3-cookbooks/site-ldaptypo3org.git
+[submodule "mysql"]
+	path = mysql
+	url = git@github.com:TYPO3-cookbooks/mysql.git
+[submodule "site-dockertypo3org"]
+	path = site-dockertypo3org
+	url = git@github.com:TYPO3-cookbooks/site-dockertypo3org.git
+[submodule "site-mailrelaytypo3org"]
+	path = site-mailrelaytypo3org
+	url = git@github.com:TYPO3-cookbooks/site-mailrelaytypo3org.git
