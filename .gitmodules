@@ -226,3 +226,12 @@
 [submodule "site-mailrelaytypo3org"]
 	path = site-mailrelaytypo3org
 	url = git@github.com:TYPO3-cookbooks/site-mailrelaytypo3org.git
+[submodule "jenkins-chefci"]
+	path = jenkins-chefci
+	url = git@github.com:TYPO3-cookbooks/jenkins-chefci.git
+[submodule "site-webhosttypo3org"]
+	path = site-webhosttypo3org
+	url = git@github.com:TYPO3-cookbooks/site-webhosttypo3org.git
+[submodule "t3-mailhog"]
+	path = t3-mailhog
+	url = git@github.com:TYPO3-cookbooks/t3-mailhog.git
