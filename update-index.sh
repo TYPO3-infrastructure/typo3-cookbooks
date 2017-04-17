@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -eu
+
 export LANG=C
 
 GITHUB_USER="typo3-cookbooks"

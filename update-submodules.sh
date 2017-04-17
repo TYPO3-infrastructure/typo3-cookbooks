@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -eu
+
 export LANG=C
 
 # Check if the repository is clean at start.
