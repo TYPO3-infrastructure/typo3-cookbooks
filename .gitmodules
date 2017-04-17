@@ -115,9 +115,6 @@
 [submodule "site-perfmontypo3org"]
 	path = site-perfmontypo3org
 	url = git@github.com:TYPO3-cookbooks/site-perfmontypo3org.git
-[submodule "site-piwiktypo3.org"]
-	path = site-piwiktypo3.org
-	url = git@github.com:TYPO3-cookbooks/site-piwiktypo3.org.git
 [submodule "site-proxytypo3org"]
 	path = site-proxytypo3org
 	url = git@github.com:TYPO3-cookbooks/site-proxytypo3org.git
