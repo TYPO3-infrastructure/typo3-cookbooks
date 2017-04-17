@@ -4,6 +4,8 @@ set -eu
 
 export LANG=C
 
+CONTINUE_FROM=${1%/}
+
 # Check if the repository is clean at start.
 # If this is the case, changes will be committed automatically.
 REPOSITORY_IS_CLEAN_AT_START=0
@@ -25,7 +27,21 @@ if git log --oneline -n 1 HEAD | egrep -q "Update submodules$"; then
 	LAST_COMMIT_IS_SUBMODULE_UPDATE=1
 fi
 
-git submodule foreach git pull
+SKIP=0
+if [ -n "$CONTINUE_FROM" ]; then
+	SKIP=1
+fi
+
+for SUBMODULE in $(git submodule | awk '{print $2}'); do
+	if [ $SUBMODULE = "$CONTINUE_FROM" ]; then
+		SKIP=0
+	fi
+	if [ $SKIP = 1 ]; then
+		continue
+	fi
+	echo "Entering '$SUBMODULE'"
+	( cd $SUBMODULE && git pull )
+done
 
 echo
 echo "==========================================="
