@@ -1,10 +1,10 @@
 #!/bin/bash
 
+CONTINUE_FROM=${1%/}
+
 set -eu
 
 export LANG=C
-
-CONTINUE_FROM=${1%/}
 
 # Check if the repository is clean at start.
 # If this is the case, changes will be committed automatically.
