@@ -33,6 +33,7 @@ if [ -n "$CONTINUE_FROM" ]; then
 fi
 
 for SUBMODULE in $(git submodule | awk '{print $2}'); do
+	echo $SUBMODULE
 	if [ $SUBMODULE = "$CONTINUE_FROM" ]; then
 		SKIP=0
 	fi
