@@ -136,9 +136,6 @@
 [submodule "site-svntypo3org"]
 	path = site-svntypo3org
 	url = git@github.com:TYPO3-cookbooks/site-svntypo3org.git
-[submodule "site-toolstypo3org"]
-	path = site-toolstypo3org
-	url = git@github.com:TYPO3-cookbooks/site-toolstypo3org.git
 [submodule "site-typo3org"]
 	path = site-typo3org
 	url = git@github.com:TYPO3-cookbooks/site-typo3org.git
