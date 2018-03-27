@@ -73,9 +73,6 @@
 [submodule "site-citypo3org"]
 	path = site-citypo3org
 	url = git@github.com:TYPO3-cookbooks/site-citypo3org.git
-[submodule "site-composertypo3org"]
-	path = site-composertypo3org
-	url = git@github.com:TYPO3-cookbooks/site-composertypo3org.git
 [submodule "site-demotypo3org"]
 	path = site-demotypo3org
 	url = git@github.com:TYPO3-cookbooks/site-demotypo3org.git
