@@ -229,3 +229,6 @@
 [submodule "t3-mailhog"]
 	path = t3-mailhog
 	url = git@github.com:TYPO3-cookbooks/t3-mailhog.git
+[submodule "site-gitlabcirunnertypo3org"]
+	path = site-gitlabcirunnertypo3org
+	url = git@github.com:TYPO3-cookbooks/site-gitlabcirunnertypo3org.git
