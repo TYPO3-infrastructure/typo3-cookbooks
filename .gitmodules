@@ -100,9 +100,6 @@
 [submodule "site-notestypo3org"]
 	path = site-notestypo3org
 	url = git@github.com:TYPO3-cookbooks/site-notestypo3org.git
-[submodule "site-otrs-sectypo3org"]
-	path = site-otrs-sectypo3org
-	url = git@github.com:TYPO3-cookbooks/site-otrs-sectypo3org.git
 [submodule "site-otrstypo3org"]
 	path = site-otrstypo3org
 	url = git@github.com:TYPO3-cookbooks/site-otrstypo3org.git
@@ -127,9 +124,6 @@
 [submodule "site-solrtypo3org"]
 	path = site-solrtypo3org
 	url = git@github.com:TYPO3-cookbooks/site-solrtypo3org.git
-[submodule "site-solrtypo3org-potenial-rewrite"]
-	path = site-solrtypo3org-potenial-rewrite
-	url = git@github.com:TYPO3-cookbooks/site-solrtypo3org-potenial-rewrite.git
 [submodule "site-statustypo3org"]
 	path = site-statustypo3org
 	url = git@github.com:TYPO3-cookbooks/site-statustypo3org.git
